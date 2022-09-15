@@ -4,4 +4,4 @@ Tiene 50 abriles y es colombiano
 
 Hoy hablaremos de su historia
 
-Le encanta programar
+Le encanta programar sobretodo java
