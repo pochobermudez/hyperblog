@@ -1,2 +1,2 @@
 # hyperblog
-Creación de un Blog
+Creación de un Blog personalizado
