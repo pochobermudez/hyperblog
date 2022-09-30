@@ -46,10 +46,19 @@ Body{
 {
     width: 40px;
     vertical-align: middle;
+
+}
 #footer
 {
     background:#777;
     color: white;
     text-align: center;
     padding: 0.5em;
+}
+#equipo
+{
+    border-image-repeat: round;
+    border-image: round;
+    background-color: blue;
+    padding: 1em;
 }
