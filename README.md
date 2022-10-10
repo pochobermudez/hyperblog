@@ -10,3 +10,4 @@ Existe por que nosotros queremos contarle al mundo de qué es el repositorio, si
 MarkDown es la misma forma en que funciona la edición en wikipedia, md es un lenguaje intermedio entre html y texto plano. Hay un editor muy bueno opensource y online llamado Editor.md (https://pandao.github.io/editor.md/en.html)
 *primer commit ejercicio cherry-pick
 *Incluye ejemplos en Win, Linux y MAC
+*Disponible para todas las edades
